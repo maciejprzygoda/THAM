@@ -1,0 +1,8 @@
+{
+  "id": "sword_001",
+  "name": "Miecz Płomieni",
+  "damage": 15,
+  "critChance": 0.12,
+  "priceUsd": 2.99,
+  "imageUrl": "https://YOUR_DOMAIN_OR_GITHUB_RAW/weapon.png"
+}
