@@ -4,5 +4,6 @@
   "damage": 15,
   "critChance": 0.12,
   "priceUsd": 2.99,
-  "imageUrl": "https://YOUR_DOMAIN_OR_GITHUB_RAW/weapon.png"
+  "imageUrl": "https://github.com/maciejprzygoda/THAM/blob/main/fire_sword.png"
 }
+
